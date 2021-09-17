@@ -2,7 +2,7 @@
   (:use :cl))
 (in-package :cl-sandbox)
 
-;; blah blah blah.
-(defun foo ()
+(defun foo2 ()
   (format t "Hello world!~%"))
 
+(foo2)
